@@ -3,8 +3,7 @@
 Student Name: Cyusa Divince  
 Student ID: 27516
 
-## Title
-Tracking and Managing Public Health Vaccination Programs
+## Title: Tracking and Managing Public Health Vaccination Programs
 
 ## 🩺Problem Recap
 
